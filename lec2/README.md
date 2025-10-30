@@ -9,11 +9,11 @@ We’ll see **two types of errors**
 ---
 ## Table of Contents
 
-1. [Inherent](#Inherent)
-2. [Taylor_Series_Truncation_Error](#Taylor_Series_Truncation_Error)
+1. [Taylor_Series_Truncation_Error](#Taylor_Series_Truncation_Error)
+2. [Inherent](#Inherent)
 
 
-## Taylor’s Series Truncation Error
+## 1.Taylor’s Series Truncation Error
 
 ### What are we trying to do?
 
@@ -128,7 +128,7 @@ that’s why it’s called a **truncation error** (because we cut the series sho
 
 ---
 
-## Inherent Error (Input Error)
+## 2.Inherent Error (Input Error)
 
 Now let’s talk about **real-life measurement mistakes**.
 
