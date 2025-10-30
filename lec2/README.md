@@ -1,7 +1,7 @@
 
 ---
 
-## Numerical Methods in Python 
+## Numerical Methods in Python _LEC2
 
 This project shows **how computers make small mistakes** when doing math — not because they’re wrong, but because they can’t use infinite numbers or perfect measurements.
 We’ll see **two types of errors** 
