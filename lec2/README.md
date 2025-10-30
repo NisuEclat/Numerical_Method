@@ -7,6 +7,11 @@ This project shows **how computers make small mistakes** when doing math — not
 We’ll see **two types of errors** 
 
 ---
+## Table of Contents
+
+1. [Inherent](#Inherent)
+2. [Taylor_Series_Truncation_Error](#Taylor_Series_Truncation_Error)
+
 
 ## Taylor’s Series Truncation Error
 
