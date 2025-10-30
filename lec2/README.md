@@ -27,9 +27,12 @@ we’ll try to **approximate** it using a mathematical series called the **Taylo
 It’s like breaking a hard formula into **many smaller parts** (terms) that are easy to calculate.
 For example:
 
-[
-\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots
-]
+For example:
+
+$$
+\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots
+$$
+
 
 Each part (term) makes the answer more and more accurate.
 If you stop early (take only a few terms), your answer will be **close** but not **perfect** — that’s called **truncation error**.
