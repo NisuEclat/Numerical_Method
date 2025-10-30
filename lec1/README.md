@@ -1,17 +1,18 @@
 
 ---
 
-##What This Lesson Is About
+##Numerical Methods in Python
 
 This first lesson teaches you **how numbers actually work inside a computer** — especially how **Python handles floating-point numbers (decimal numbers)**.
 You’ll see how computers sometimes make **tiny mistakes** with decimal numbers because of how they’re stored in binary form (0s and 1s).
 
+---
 
 Table of Contents
-Basic Operations
-Explore Floating Point Precision
-Precision Spacing
-Cumulative Rounding Error
+1.Basic Operations
+2.Explore Floating Point Precision
+3.Precision Spacing
+4.Cumulative Rounding Error
 
 ---
 
@@ -63,7 +64,7 @@ print("e^log(10) =", math.exp(math.log(10)))        # 10.0
 print("e^log10(10) =", math.exp(math.log(10, 10)))  # 2.718...
 ```
 
-📘 Notes:
+ Notes:
 
 * `math.sqrt(9)` → √9 = 3
 * `math.cos(math.pi / 3)` → cos(60°) = 0.5
@@ -220,5 +221,4 @@ As you increase iterations, result slightly moves away from 1.0 — this is **cu
 
 ---
 
-Would you like me to make a **diagram or short visual summary** (like a chart showing how floating-point errors accumulate)?
-It will help you memorize this topic easily.
+
