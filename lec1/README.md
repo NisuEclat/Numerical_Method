@@ -8,11 +8,12 @@ You’ll see how computers sometimes make **tiny mistakes** with decimal numbers
 
 ---
 
-Table of Contents
-1.Basic Operations
-2.Explore Floating Point Precision
-3.Precision Spacing
-4.Cumulative Rounding Error
+## Table of Contents
+
+1. [Basic Operations](#basic-operations)
+2. [Explore Floating Point Precision](#explore-floating-point-precision)
+3. [Precision Spacing](#precision-spacing)
+4. [Cumulative Rounding Error](#cumulative-rounding-error)
 
 ---
 
