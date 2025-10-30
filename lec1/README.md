@@ -1,7 +1,7 @@
 
 ---
 
-##Numerical Methods in Python
+## Numerical Methods in Python
 
 This first lesson teaches you **how numbers actually work inside a computer** — especially how **Python handles floating-point numbers (decimal numbers)**.
 You’ll see how computers sometimes make **tiny mistakes** with decimal numbers because of how they’re stored in binary form (0s and 1s).
